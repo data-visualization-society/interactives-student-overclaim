@@ -1,3 +1,20 @@
+# Student Overclaiming Data Story
+
+This interactive data story explores student overclaiming behavior, built using the Svelte Starter template from The Pudding (detailed below). The project visualizes and analyzes patterns in how students may overclaim their knowledge.
+
+## Getting Started
+
+1. Clone this repository
+2. Install dependencies: `npm install` or `pnpm install`
+3. Run development server: `npm run dev`
+4. View the project at `http://localhost:5173`
+
+---
+
+# Svelte Starter
+
+This [starter template](https://github.com/the-pudding/svelte-starter) aims to quickly scaffold a [SvelteKit](https://kit.svelte.dev/) project, designed around data-driven, visual stories at [The Pudding](https://pudding.cool).
+
 # Svelte Starter
 
 This [starter template](https://github.com/the-pudding/svelte-starter) aims to quickly scaffold a [SvelteKit](https://kit.svelte.dev/) project, designed around data-driven, visual stories at [The Pudding](https://pudding.cool).
