@@ -23,20 +23,20 @@
 		subtitle: convertFlagEmojis(copy.subtitle),
 		a_intro_2_scroll: copy.a_intro_2_scroll?.map((item) => ({
 			...item,
-			step: convertFlagEmojis(item.step)
+			step: convertFlagEmojis(item.step),
 		})),
 		b_section_2_scroll: copy.b_section_2_scroll?.map((item) => ({
 			...item,
-			step: convertFlagEmojis(item.step)
+			step: convertFlagEmojis(item.step),
 		})),
 		c_section_3_scroll: copy.c_section_3_scroll?.map((item) => ({
 			...item,
-			step: convertFlagEmojis(item.step)
+			step: convertFlagEmojis(item.step),
 		})),
 		d_section_2_scroll: copy.d_section_2_scroll?.map((item) => ({
 			...item,
-			step: convertFlagEmojis(item.step)
-		}))
+			step: convertFlagEmojis(item.step),
+		})),
 	};
 
 	// Set the processed copy in context
@@ -65,7 +65,8 @@
 				{@html processedCopy.subtitle}
 			</h2>
 			<p class="title byline">
-				by <a href="https://www.yuqiliao.com/">Yuqi Liao</a>, March 20, 2025
+				by <a href="https://www.yuqiliao.com/">Yuqi Liao</a>, April 22,
+				2025
 			</p>
 		</div>
 		<div id="section section-a">
