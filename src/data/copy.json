@@ -1,0 +1,213 @@
+{
+    "title": "Do students around the world think they know more than they do?",
+    "subtitle": "Analyzing PISA data to uncover patterns of overclaiming in mathematics.",
+    "a_intro": [
+        {
+            "text": "Have you heard of these two mathematical concepts: “Declarative fraction” and “Subjunctive scaling”?"
+        },
+        {
+            "text": "Students around the world were asked how familiar they are with concepts like “<b>Declarative fraction</b>” and “<b>Subjunctive scaling</b>”. Interestingly, many claimed they knew these well—but here’s the catch: these terms don't actually exist."
+        },
+        {
+            "text": "These fake terms were included in the international education study, the <a href=https://www.oecd.org/en/about/programmes/pisa.html target=_blank>Program for International Student Assessment (PISA)</a>. This study measures more than just math, reading, and science skills—it also reveals students’ confidence levels, sometimes even when they shouldn't be confident."
+        },
+        {
+            "text": "PISA assesses 15-year-olds across over 70 countries in math, science, and reading every three years. It began in 2000, led by the <a href=https://www.oecd.org/en.html target=_blank>Organization for Economic Co-operation and Development (OECD)</a>, and has since received significant attention, especially for its international rankings. Besides the test itself, students also answer questionnaires that help contextualize their performance. Among the questions asked, there's one unique set that explores students' familiarity with specific math concepts."
+        }
+    ],
+    "a_intro_2_scroll": [
+        {
+            "step": "Let’s take a look at how this question was structured."
+        },
+        {
+            "step": "Of the ten math concepts listed, most are <span class=text-highlight>real-world terms</span>."
+        },
+        {
+            "step": "However, two of the terms are <span class=text-highlight>made-up concepts</span>—designed to detect overclaiming. This is where this story begins."
+        }
+    ],
+    "a_intro_3": [
+        {
+            "text": "Before scrolling further, can you guess how students responded to these fake concepts? Which countries do you think are the most confident when it comes to these fake concepts?"
+        }
+    ],
+    "b_section": [
+        {
+            "section_title": "Overclaim Globally, But Not Equally",
+            "section_subtitle": "Examining student overclaiming patterns across education systems"
+        }
+    ],
+    "b_section_2_scroll": [
+        {
+            "step": "In an ideal world, all students should have responded, <span class=neverheard-highlight>“Never heard of it”</span> to the fake concepts. The result would look something like this, where nearly <b>100%</b> of students responded that they never heard of the fake concept."
+        },
+        {
+            "step": "In reality, when asked about “subjunctive scaling,” the percentage of students who answered <span class=neverheard-highlight>“Never heard of it”</span> ranged from <b>6%</b> in 🇮🇩 Indonesia to <b>70%</b> in 🇮🇪 Ireland, far below <b>100%</b>."
+        },
+        {
+            "step": "This means that students who answered some versions of “heard of it”, which includes  <span class=heardonce-highlight>“heard of it once or twice,”</span> <span class=heardafewtimes-highlight>“heard of it a few times,”</span> </span> <span class=heardoften-highlight>“heard of it often,”</span> or <span class=knowitwell-highlight>“know it well, understand the concept”</span> ranges from <b>94%</b> in 🇮🇩 Indonesia to <b>30%</b> in 🇮🇪 Ireland. <br><br> <span class=footnote>👉 Hover over the legend to highlight a specific category, hover over the bar to show tooltip.</span>"
+        },
+        {
+            "step": "It’s understandable if students responded with <span class=heardonce-highlight>“heard of it once or twice,”</span> but answering <span class=knowitwell-highlight>“know it well, understand the concept”</span> is clear overclaiming."
+        },
+        {
+            "step": "For “subjunctive scaling,” the percentage of students who said they <span class=knowitwell-highlight>“know it well, understand the concept”</span>, let’s call them the <span class=bold>overclaimers</span>, ranged from <b>2%</b> in the 🇨🇿 Czech Republic to <b>27%</b> in 🇰🇿 Kazakhstan."
+        },
+        {
+            "step": "Similarly, for “declarative fraction,” <b>2%</b> of 🇯🇵 Japanese students and <b>31%</b> of 🇶🇦 Qatari students <span class=bold>overclaimed</span>."
+        }
+    ],
+    "b_section_3": [
+        {
+            "text": "Why do some education systems show higher overclaiming rates than others?"
+        },
+        {
+            "text": "There could be several reasons behind this phenomenon. For example, studies suggest that <a href=https://psycnet.apa.org/record/1996-00027-001 target=_blank>students from East Asian countries often prefer mid-level responses</a> over extreme ones in surveys, potentially shaping their tendency to overclaim. Other factors, such as <a href=https://psycnet.apa.org/record/1996-18755-001 target=_blank>gender</a>, <a href=https://psycnet.apa.org/record/1993-17294-001 target=_blank>race</a>, and <a href=https://datacatalog.ihsn.org/citations/47680 target=_blank>culture in general</a> have also been documented as contributors to differences in response styles."
+        },
+        {
+            "text": "However, when we examine overclaiming across different education systems, no clear regional or cultural pattern emerges. In fact, education systems with high overclaiming rates (let’s define it as education systems with more than 10% of students claiming to \"know it well\" for either “subjunctive scaling” or “declarative fraction” in PISA 2022, as noted in the last column of the table below) come from various regions, including Eastern and Southern Europe, Westaern and Central Asia, and South America. This lack of a consistent pattern suggests other factors may be at play."
+        }
+    ],
+    "c_section": [
+        {
+            "section_title": "Student Overclaiming Across Years",
+            "section_subtitle": "Analyzing how overclaiming patterns have changed over time"
+        }
+    ],
+    "c_section_2": [
+        {
+            "text": "To gain further insight, let’s look at how overclaiming has evolved over time within individual countries. By examining trends within the same country, we can control for cultural factors and focus on how overclaiming has changed over time."
+        },
+        {
+            "text": "PISA included these same fake concepts in both the 2012 and 2022 assessments, where math was the primary focus. This gives us a unique opportunity to observe trends across a decade."
+        }
+    ],
+    "c_section_3_scroll": [
+        {
+            "step": "This map illustrates changes in the percentage between 2012 and 2022 of students who answered \"know it well, understand the concept\" to the fake concept <span class=subjunctive-highlight>\"subjunctive scaling\"</span>."
+        },
+        {
+            "step": "As seen on the map, the percentage change varies significantly across countries. For example, in 🇶🇦 Qatar, overclaiming rose by <b>9.6</b> percentage points (from <b>11.5%</b> in 2012 to <b>21.3%</b> in 2022), while in 🇯🇴 Jordan, it declined by 15.2 points (from <b>25.9%</b> to <b>10.7%</b>)."
+        },
+        {
+            "step": "A similar variation is seen with <span class=declarative-highlight>\"declarative fraction\"</span>\"."
+        },
+        {
+            "step": "In the 🇨🇿 Czech Republic, overclaiming increased by <b>13.7</b> points (from <b>2.5%</b> in 2012 to <b>16.2%</b> in 2022), while in 🇦🇱 Albania, it decreased by <b>14.7</b> points (from <b>33.8%</b> to <b>19.1%</b>)."
+        }
+    ],
+    "c_section_4": [
+        {
+            "text": "What factors may explain such variation in changes in overclaiming rates over time across education systems?"
+        },
+        {
+            "text": "One potential explanation could be translation inconsistencies. Since students in each education system take the assessment and answer the questionnaire in their local language(s), variations in how the fake concepts are translated could influence how students respond."
+        },
+        {
+            "text": "Explore in the interactive table below to see what language was administered and how the fake concepts were translated in each education system in PISA 2022."
+        },
+        {
+            "text": "A few things may jump out from the interactive table that may impact how the fake concepts are perceived by students. The first one is that, some education systems administered the the questionnaire in more than one languages (e.g., 🇧🇪 Belgium administered it in 3 languages and 🇪🇸 Spain 5 languages), which may lead to slight interpretation differences among students within the same education system."
+        },
+        {
+            "text": "The second point is that even in the same language, the fake concepts may be translated differently across different education systems (e.g., the Spanish translation of “Subjunctive Scaling” is “Escala subjuntiva” in 🇦🇷 Argentina and “Escalamiento subjuntivo” in 🇲🇽 Mexico). Lastly, some education systems were creative in how to present the fake concepts (e.g. 🇭🇰 Hong Kong-China’s Chinese translation includes the English term in parentheses in addition to Chinese but only for the fake concepts, while the real concepts are shown only in Chinese). Both of these points make the percentage less comparable across education systems."
+        }
+    ],
+    "c_section_5": [
+        {
+            "text": "There may also be cases of inconsistent translations across cycles even in same education system. It’s a bit challenging to find the translation for each education system in PISA 2012, but the example below for 🇨🇿 Czech Republic provides the point."
+        },
+        {
+            "text": "In 2012, the concepts of “Subjunctive Scaling” and “Declarative Fraction” were translated as “Konjunktivní <u>měřítko</u>” and “<u>Deklarativní</u> zlomek”, while in 2022, they became “Konjunktivní <u>měření</u>” and “<u>Určovací</u> zlomek”, respectively. Note that even the stem questions and the Likert scale options were translated differently across the two cycles."
+        }
+    ],
+    "c_section_6": [
+        {
+            "text": "Obviously, if students are responding to different translated version of the fake concepts, it’s no wonder why the percentage of overlaimers changes dramatically across time."
+        },
+        {
+            "text": "If we focus on only English-speaking countries (or more strickly speaking, countries where PISA is only administered in English), which are 🇦🇺 Australia, 🇮🇪 Ireland, 🇳🇿 New Zealand, 🇸🇬 Singapore, the 🇬🇧 United Kingdom, and the 🇺🇸 United States, we make sure that the fake concepts are presented the same both across education systems and across cycles. We can see the cross-year percentage changes are no longer drastic, which further support the hypothesis that inconsistent translations across cycles is an important contributor to the large change."
+        }
+    ],
+    "d_section": [
+        {
+            "section_title": "When Confidence Meets Competence",
+            "section_subtitle": "Exploring the link between overclaiming and math performance",
+            "text": "Now that we’ve seen how overclaiming varies across regions and over time, let’s explore if this overclaiming tendency translate into math proficiency. Are students who overclaim less proficient in math?"
+        }
+    ],
+    "d_section_2_scroll": [
+        {
+            "step": "To investigate, we’ll plot the percentage of students who overclaimed (responding “know it well” to \"subjunctive scaling\") against their average math scores for each country."
+        },
+        {
+            "step": "For example, In the 🇺🇸 United States, the average math score was <b>465</b>, and <b>5.2%</b> of students overclaimed."
+        },
+        {
+            "step": "With all education systems plotted, we observe a negative correlation between overclaiming and math performance, with a correlation coefficient of <b>-0.47</b>."
+        },
+        {
+            "step": "A similar negative relationship can be seen when we look at overclaiming for “declarative fraction.”"
+        },
+        {
+            "step": "Let’s approach the relationship between overclaiming and math performance from another perspective by looking beyond the <span class=mathaveragescrollyD-highlight>average math score</span> of each education system. Here, we plot all education systems in the order of the average math score in PISA 2022."
+        },
+        {
+            "step": "For each education system, let’s compare the math scores of students who answered <span class=knowitwellscrollyD-highlight>“Know it well”</span> (the overclaimers) and those who responded <span class=neverheardscrollyD-highlight>“Never heard of it”</span> to the concept of “subjunctive scaling”."
+        },
+        {
+            "step": "The gap between the two groups varies across education systems. Most gaps are statistically significant, as indicated in gray, while some smaller gaps, as shown in white, are not statistically significant, meaning we can’t say for sure there’s a difference between the two groups."
+        },
+        {
+            "step": "Let’s reorder the education system based on the gap size. In most education systems, students <span class=knowitwellscrollyD-highlight>who overclaim</span> tend to perform worse in math than those <span class=neverheardscrollyD-highlight>who respond honestly</span>."
+        },
+        {
+            "step": "However, among education systems with statistically significant gaps, there are a few notable outliers where students who claimed to <span class=knowitwellscrollyD-highlight>“know it well”</span> for fake concepts scored higher than those who admitted they <span class=neverheardscrollyD-highlight>“never heard of it”</span>. These outlier education systems include 🇮🇩 Indonesia, 🇰🇷 Korea, 🇰🇿 Kazakhstan, 🇮🇱 Israel, 🇨🇴 Colombia, 🇲🇴 Macao-China, and 🇯🇵 Japan."
+        },
+        {
+            "step": "We observe a similar trend with “declarative fraction,” where <span class=knowitwellscrollyD-highlight>overclaimers</span> generally perform worse than <span class=neverheardscrollyD-highlight>honest students</span>, except in two education systems, which are 🇰🇷 Korea and 🇲🇴 Macao-China.",
+            "Plot": "update data to show a similar scatter plot for “Subjunctive scaling”."
+        }
+    ],
+    "d_section_3": [
+        {
+            "text": "This finding hints that there’s more going on beneath the surface when it comes to the link between overclaiming and mathematics performance, suggesting that other hidden factors might be at play—something that calls for a closer look in the future."
+        }
+    ],
+    "e_outro": [
+        {
+            "section_title": "Insights and Next Steps"
+        }
+    ],
+    "e_outro_2": [
+        {
+            "text": "These findings highlight the complexities of interpreting self-assessment data in educational contexts. As we’ve seen, overclaiming rates vary widely across regions and over time, suggesting that simple measures of confidence may not capture the full story."
+        },
+        {
+            "text": "To uncover deeper insights, future assessments should focus on improving question design and translation processes to better account for cultural and linguistic variations. Consistency in questionnaires is equally critical to ensure reliable comparisons over time. By refining these methods, we can gain a clearer and more meaningful understanding of how students perceive their abilities and attitudes across diverse educational systems."
+        }
+    ],
+    "f_methodology": [
+        {
+            "section_title": "Data and Methods"
+        }
+    ],
+    "f_methodology_2": [
+        {
+            "text": "This data story draws on data from the Programme for International Student Assessment (PISA), a large-scale international study coordinated by the Organization for Economic Cooperation and Development (OECD). PISA assesses the performance of 15-year-old students in reading, mathematics, and science literacy, with the major domain rotating between these subjects in each cycle."
+        },
+        {
+            "text": "The analysis uses data from the 2012 and 2022 cycles, during which mathematics was the major domain. This focus allowed for more detailed student questionnaires specifically targeting mathematics, including a set of items asking students about their familiarity with a series of mathematical concepts. Among these were two pseudo-concepts — “subjunctive scaling” and “declarative fraction” — intentionally included to measure overclaiming behavior."
+        },
+        {
+            "text": "Students were presented with the same response options for all concepts: (a) never heard of it, (b) heard of it once or twice, (c) heard of it a few times, (d) heard of it often, (e) know it well, understand the concept."
+        },
+        {
+            "text": "Although more than 80 education systems participated in PISA 2022 and more than 60 education systems participated in PISA 2012, there are 57 education systems that participated in both two cycles. Responses to the two pseudo-concepts were collected from students in these 57 education systems for this data story. These data provide a unique lens through which to examine overclaiming trends across time and regions."
+        },
+        {
+            "text": "For more detailed reporting on PISA results, visit the <a href=https://www.oecd.org/en/about/programmes/pisa.html target=_blank>OECD PISA page</a>. You can also explore detailed PISA results, data tools and FAQs on the U.S. <a href=https://nces.ed.gov/surveys/pisa/index.asp target=_blank>National Center for Education Statistics</a> (NCES) website, which offers a wealth of resources for diving deeper into the study."
+        }
+    ],
+    "text": "Acknowledgments Thank those who helped with the analysis and review."
+}
