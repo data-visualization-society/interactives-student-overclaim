@@ -65,7 +65,7 @@
 				{@html processedCopy.subtitle}
 			</h2>
 			<p class="title byline">
-				by <a href="https://www.yuqiliao.com/">Yuqi Liao</a>, April 22,
+				by <a href="https://www.yuqiliao.com/">Yuqi Liao</a>, April 24,
 				2025
 			</p>
 		</div>
